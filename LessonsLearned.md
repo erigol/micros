@@ -149,5 +149,13 @@ En mi caso no tengo la opcion de ejecutar como administrador, que según parece 
 
 Según se menciona en https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html
 
-Solución tarea 1: https://github.com/capCCA/training-tarea-1
-Solución tarea 2: https://github.com/capCCA/training-tarea-2
+Esqueleto inicial en https://github.com/capCCA/training
+
+Soluciones:
+https://github.com/capCCA/training-tarea-1
+https://github.com/capCCA/training-tarea-2
+https://github.com/capCCA/training-tarea-4
+https://github.com/capCCA/training-tarea-5
+El resto no están
+https://github.com/capCCA/training-tarea-6
+https://github.com/capCCA/training-tarea-7
