@@ -3,7 +3,7 @@
     1. IntelliJ Community: https://www.jetbrains.com/idea/download
        1. Con este plugin: https://plugins.jetbrains.com/plugin/8527-google-java-format
     2. Postman: https://www.postman.com/downloads/
-    3. Docker: https://docs.docker.com/desktop/previous-versions/3.x-windows/
+    3. Docker: https://docs.docker.com/desktop/previous-versions/3.x-windows/ (Se usa para postgress. Opcion usar BBDD H2 embedida, sin Docker, solo hay que cambiar el application.properties )
 2. Clónate el repositorio: ```git clone https://github.com/capCCA/training.git```
 3. Créate una nueva rama. Sustituir la palabra *apellidoNombre* por tus datos.
     1. Comando: ```git branch apellidoNombre```
